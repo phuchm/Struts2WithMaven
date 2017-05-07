@@ -7,6 +7,9 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=US-ASCII">
 <title>Login Page</title>
+<script type="text/javascript" src="public/js/jquery-3.2.1.min.js"></script>
+<script type="text/javascript" src="public/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="public/js/angular.min.js"></script>
 </head>
 <body>
 <h3>Welcome User, please login below</h3>

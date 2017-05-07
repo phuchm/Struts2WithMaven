@@ -6,7 +6,7 @@
 <struts>
 <constant name="struts.devMode" value="true"></constant>
 
-<package name="user" namespace="/User" extends="struts-default">
+<package name="default" namespace="/" extends="struts-default">
 	<action name="home">
 		<result>/login.jsp</result>
 	</action>
